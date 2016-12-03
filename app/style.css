@@ -1,0 +1,11 @@
+body {
+    background: red;
+}
+
+/*记得写宽高。。*/
+#qwe{
+    background-image: url(./imgs/small.jpg);/*3.2k*/
+}
+#asd{
+    background-image: url(./imgs/large.jpg);
+}
